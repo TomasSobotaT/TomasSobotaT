@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
   ### Hi, I’m Tomas👋. 
-  <h3>I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h3>
+  <h5>I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h5>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a>
 - 🌱 I’m currently learning Typescript, Node.js, SQL
