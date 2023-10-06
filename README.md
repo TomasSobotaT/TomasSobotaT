@@ -10,7 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ### Hi, I’m Tomas👋. I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.
+  ### Hi, I’m Tomas👋. 
+  <h3>I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Typescript, Node.js, SQL
