@@ -16,4 +16,4 @@
 - 🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a>
 - 🌱 I’m currently learning Typescript, Node.js, SQL
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasSobotaT&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasSobotaT&show_icons=true&theme=transparent)
