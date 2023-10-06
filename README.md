@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **TomasSobotaT/TomasSobotaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  Hi, I’m Tomas👋. I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.
+  ### Hi, I’m Tomas👋. I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Typescript, Node.js, SQL
