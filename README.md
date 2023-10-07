@@ -3,11 +3,11 @@
 
 
   <h1 align="center" > Hi, I’m Tomas👋. </h1>
-  <h4>Junior C# programmer, .NET and web developer</h4>
-  <h4>I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h4>
+  <h3 align="center">C# programmer, .NET and web developer</h3>
+  <h4 align="center">I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h4>
 
-- 🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a>
-- 🌱 I’m currently learning Typescript, Node.js, SQL  </br>  
+<div align="center">  🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a> </div>
+<div align="center">  🌱 I’m currently learning Typescript, Node.js, SQL  </div> </br>  
 
 
 <!--
