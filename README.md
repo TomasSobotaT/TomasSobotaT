@@ -22,7 +22,7 @@
   <img height="25" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visualstudio&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-HTML-E34F29.svg?logo=html5&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&style=plastic">
-  <img height="25  src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=plastic">
+  <img height="25" src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=plastic">
 </p>
