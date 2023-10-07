@@ -9,7 +9,7 @@
 <div align="center">  🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a> </div>
 <div align="center">  🌱 I’m currently learning Typescript, Node.js, SQL  </div> </br>  
 
-
+<img src="https://img.shields.io/badge/-C%23-3484D2.svg?logo=csharp&style=plastic">
 <!--
 
 <h3>Languages and Tools</h3>
