@@ -2,7 +2,7 @@
 
 
 
-  <h1 align="center" > Hi, I’m Tomas👋. </h1>
+  <h1 align="center" > Hello world, I’m Tomas👋. </h1>
   <h3 align="center">C# programmer, .NET and web developer</h3>
   <h4 align="center">I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h4>
 
