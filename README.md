@@ -9,15 +9,14 @@
 <div align="center">  🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a> </div>
 <div align="center">  🌱 I’m currently learning Typescript, Node.js, SQL  </div> </br>  
 
-<img src="https://img.shields.io/badge/-C%23-3484D2.svg?logo=csharp&style=plastic">
+
+
+
 <!--
 
 <h3>Languages and Tools</h3>
 <p>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/-C%23-3484D2.svg?logo=csharp&style=plastic">
 </p>
 
 <h3 align="left">Get in touch with me:</h3>
