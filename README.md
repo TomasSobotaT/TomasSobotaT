@@ -35,8 +35,10 @@
 
 <h3 align="left">Get in touch with me:</h3>
 <p>
-<a href="mailto:t.sobota@volny.cz" target="_blank"><img align="center" src="https://tsobota.cz/Loga/mail.png" alt="TS" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/tomas-sobota" target="_blank"><img align="center" src="https://tsobota.cz/Loga/ln.png" alt="TS" height="40" width="40" /></a>
+<a href="mailto:t.sobota@volny.cz" target="_blank"><img align="center" src="https://tsobota.cz/Loga/mail.png" alt="Mail" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomas-sobota" target="_blank"><img align="center" src="https://tsobota.cz/Loga/ln.png" alt="LN" height="40" width="40" /></a>
+<a href="https://t.me/Tsko84" target="_blank"><img align="center" src="https://tsobota.cz/Loga/tg.png" alt="TG" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/20860189/tsko" target="_blank"><img align="center" src="https://tsobota.cz/Loga/so.png" alt="SO" height="40" width="40" /></a>
 </p>
 
 </br>
