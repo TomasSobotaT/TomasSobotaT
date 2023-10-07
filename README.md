@@ -1,18 +1,16 @@
 
+<h1 align="center" > Hello world, I’m Tomas👋. </h1>
+<h3 align="center">C# programmer, .NET and web developer</h3>
+<h4 align="center">I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h4>
 
+<div align="center">
+<img align="center" width="300" src="https://tsobota.cz/Loga/code.gif" alt="Gif"  />
+</div>
 
-
-  <h1 align="center" > Hello world, I’m Tomas👋. </h1>
-  <h3 align="center">C# programmer, .NET and web developer</h3>
-  <h4 align="center">I learn C#, ASP.NET, MS-SQL, JS and other technologies related to web application development👀💻.</h4>
+</br>
 
 <div align="center">  🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a> </div>
 <div align="center">  🌱 I’m currently learning Typescript, Node.js, SQL  </div> </br>  
-
-
-
-
-
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -47,11 +45,9 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasSobotaT&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSobotaT&layout=compact)
-
 </div>
 
-<div align="center">
-  
+<div align="center"> 
 <a href="https://www.codewars.com/users/TomasSobotaT" target="_blank"><img align="center" src="https://www.codewars.com/users/TomasSobotaT/badges/large" alt="Codewars Rank"  /></a>
-
 </div>
+
