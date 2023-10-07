@@ -14,7 +14,7 @@
 
 
 
-<h3>Languages and Tools</h3>
+<h3>Languages and Tools:</h3>
 <p>
   <img height="25" src="https://img.shields.io/badge/-C%23-3484D2.svg?logo=csharp&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-.NET-512BD4.svg?logo=.net&style=plastic">
@@ -47,5 +47,11 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasSobotaT&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSobotaT&layout=compact)
+
+</div>
+
+<div align="center">
+  
+<a href="https://www.codewars.com/users/TomasSobotaT" target="_blank"><img align="center" src="https://www.codewars.com/users/TomasSobotaT/badges/large" alt="Codewars Rank"  /></a>
 
 </div>
