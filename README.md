@@ -32,15 +32,18 @@
 </p>
 
 
-<!--
-<h3 align="left">Get in touch with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-ko%C5%BEu%C5%A1n%C3%ADk-b66b77278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lukáš Kožušník" height="30" width="40" /></a>
-</p>
--->
 
+<h3 align="left">Get in touch with me:</h3>
+<p>
+<a href="mailto:t.sobota@volny.cz" target="_blank"><img align="center" src="https://tsobota.cz/Loga/mail.png" alt="TS" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomas-sobota" target="_blank"><img align="center" src="https://tsobota.cz/Loga/ln.png" alt="TS" height="40" width="40" /></a>
+</p>
+
+</br>
 
 <div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasSobotaT&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSobotaT&layout=compact)
+
 </div>
