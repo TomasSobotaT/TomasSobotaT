@@ -24,8 +24,11 @@
   <img height="25" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Bootstrap-7952B3.svg?logo=bootstrap&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
-  <img height="25" src="https://img.shields.io/badge/-VS%20S%20Code-007ACC.svg?logo=visualstudiocode&style=plastic">
+  <img height="25"src="https://img.shields.io/badge/-Typescript-3198f1.svg?logo=Typescript&style=plastic">
+  <img height="25" src="https://img.shields.io/badge/-VS%20Code-007ACC.svg?logo=visualstudiocode&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Swagger-85EA2D.svg?logo=swagger&style=plastic">
+  <img height="25" src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
+  <img height="25" src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
 </p>
 
 
