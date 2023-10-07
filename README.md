@@ -32,6 +32,8 @@
 <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-ko%C5%BEu%C5%A1n%C3%ADk-b66b77278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lukáš Kožušník" height="30" width="40" /></a>
 </p>
 -->
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasSobotaT&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasSobotaT&layout=compact)
+</div>
