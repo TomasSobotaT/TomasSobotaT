@@ -10,7 +10,7 @@
 </br>
 
 <div align="center">  🔭 I’m currently working on <a href="https://github.com/TomasSobotaT/Portfolio_Manager">Portfolio Manager<a> </div>
-<div align="center">  🌱 I’m currently learning Typescript, Node.js, SQL  </div> </br>  
+<div align="center">  🌱 I’m currently learning Typescript, Node.js, MS-SQL and Entity Framework  </div> </br>  
 
 <h3>Languages and Tools:</h3>
 <p>
