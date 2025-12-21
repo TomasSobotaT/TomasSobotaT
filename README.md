@@ -17,6 +17,8 @@
   <img height="25" src="https://img.shields.io/badge/-C%23-3484D2.svg?logo=csharp&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-.NET-512BD4.svg?logo=.net&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-MSSQL-CC2927.svg?logo=microsoftsqlserver&style=plastic">
+  <img height="25"src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoft-sql-server&style=plastic">
+  <img height="25"src="https://img.shields.io/badge/SSMS-0078D4.svg?logo=microsoft&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visualstudio&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-HTML-E34F29.svg?logo=html5&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=css3&style=plastic">
@@ -28,6 +30,7 @@
   <img height="25" src="https://img.shields.io/badge/-Swagger-85EA2D.svg?logo=swagger&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
   <img height="25" src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
+  <img height="25"src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?logo=githubcopilot&style=plastic">
 </p>
 
 
